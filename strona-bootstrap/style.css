@@ -1,0 +1,22 @@
+body{padding-top: 70px;}
+.zielony{
+  background-color: #15A715;
+}
+
+.czerwony{
+  background-color: #FF4900;
+}
+
+.niebieski{
+  background-color: #00D2FF;
+}
+
+.zolty{
+ background-color: #FFDF00;
+}
+
+.test{
+  background-color: greenyellow;
+  width: 300px;
+  height: 300px;
+}
